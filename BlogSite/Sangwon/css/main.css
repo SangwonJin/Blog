@@ -1,0 +1,25 @@
+.slogan{
+    position: absolute;
+    top: 120px;
+    color: #00838f   ;
+    width: 100%;
+    left:0;
+    right: 0;
+    text-align: center;
+    z-index: 999;
+}
+.inputLogin{
+    width: 50%;
+    margin: 0 auto;
+
+}
+.sectionHeading{
+    margin-top: 100px;
+    margin-bottom: 40px;
+    
+}
+
+input[type=submit]{
+    background-color:#1a237e;
+    color:white;
+}
